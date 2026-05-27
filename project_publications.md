@@ -23,6 +23,9 @@
 
 
 
-
 # Other
+
+- Parolini, G. (2025) “Data Policies Sustainability Checklist”. Museum für Naturkunde Berlin.  [https://github.com/MfN-Berlin/sustainable_policies](https://github.com/MfN-Berlin/sustainable_policies)
+
+- Parolini, G. (2024) “Machine-Readable Data Formats in Biodiversity Informatics”. Museum für Naturkunde Berlin. [https://doi.org/10.7479/6qch-mz63](https://doi.org/10.7479/6qch-mz63)
 
