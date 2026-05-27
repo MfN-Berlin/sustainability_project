@@ -15,12 +15,11 @@
 
 - Parolini, G. (2025) Datenrichtlinien: Eine Checkliste für Nachhaltigkeit. 18th meeting of the Netzwerk Forschungsdaten Berlin-Brandenburg (TU Berlin, 6th November 2025). [https://doi.org/10.5281/zenodo.17904531](https://doi.org/10.5281/zenodo.17904531)
 
-- Parolini, G. (2025). Data Policies: A Sustainability Checklist. NFDI4Biodiversity meets NFDI4Earth – Joint Plenary Conference 2025, Bremen. 10.5281/zenodo.17674042
+- Parolini, G. (2025). Data Policies: A Sustainability Checklist. NFDI4Biodiversity meets NFDI4Earth – Joint Plenary Conference 2025, Bremen. [https://doi.org/10.5281/zenodo.17674042](https://doi.org/10.5281/zenodo.17674042)
 
-- Parolini, G. (2024). AI-Ready Data in Biodiversity Informatics: Why Machine-Readability Matters. Artificial Intelligence and Knowledge Graphs for Scholarly Data (Summer School Day: 2024: Lüneburg). DOI: 
-10.4126/FRL01-006488503 https://repository.publisso.de/resource/frl:6488503
+- Parolini, G. (2024). AI-Ready Data in Biodiversity Informatics: Why Machine-Readability Matters. Artificial Intelligence and Knowledge Graphs for Scholarly Data (Summer School Day: 2024: Lüneburg). [10.4126/FRL01-006488503] (https://repository.publisso.de/resource/frl:6488503)
 
-- Parolini, G. and Petersen, M. (2024). Sustainability in Biodiversity Science. NFDI4Biodiversity All Hands Conference, Munich. Zenodo. https://doi.org/10.5281/zenodo.12705118
+- Parolini, G. and Petersen, M. (2024). Sustainability in Biodiversity Science. NFDI4Biodiversity All Hands Conference, Munich. Zenodo. [https://doi.org/10.5281/zenodo.12705118](https://doi.org/10.5281/zenodo.12705118)
 
 
 
